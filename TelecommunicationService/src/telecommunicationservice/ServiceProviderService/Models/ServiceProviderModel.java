@@ -1,0 +1,1 @@
+package telecommunicationservice.ServiceProviderService.Models;
